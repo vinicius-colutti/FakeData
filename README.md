@@ -1,0 +1,1 @@
+#A node/typescript module for generate fake data
